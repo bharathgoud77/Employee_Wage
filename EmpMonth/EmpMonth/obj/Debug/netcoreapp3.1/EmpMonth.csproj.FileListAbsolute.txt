@@ -1,0 +1,13 @@
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\bin\Debug\netcoreapp3.1\EmpMonth.exe
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\bin\Debug\netcoreapp3.1\EmpMonth.deps.json
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\bin\Debug\netcoreapp3.1\EmpMonth.runtimeconfig.json
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\bin\Debug\netcoreapp3.1\EmpMonth.runtimeconfig.dev.json
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\bin\Debug\netcoreapp3.1\EmpMonth.dll
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\bin\Debug\netcoreapp3.1\EmpMonth.pdb
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\obj\Debug\netcoreapp3.1\EmpMonth.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\obj\Debug\netcoreapp3.1\EmpMonth.AssemblyInfoInputs.cache
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\obj\Debug\netcoreapp3.1\EmpMonth.AssemblyInfo.cs
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\obj\Debug\netcoreapp3.1\EmpMonth.csproj.CoreCompileInputs.cache
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\obj\Debug\netcoreapp3.1\EmpMonth.dll
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\obj\Debug\netcoreapp3.1\EmpMonth.pdb
+E:\Fellowship-92\Employee_Wage\EmpMonth\EmpMonth\obj\Debug\netcoreapp3.1\EmpMonth.genruntimeconfig.cache
