@@ -1,0 +1,13 @@
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\bin\Debug\netcoreapp3.1\EmpParttime.exe
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\bin\Debug\netcoreapp3.1\EmpParttime.deps.json
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\bin\Debug\netcoreapp3.1\EmpParttime.runtimeconfig.json
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\bin\Debug\netcoreapp3.1\EmpParttime.runtimeconfig.dev.json
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\bin\Debug\netcoreapp3.1\EmpParttime.dll
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\bin\Debug\netcoreapp3.1\EmpParttime.pdb
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\obj\Debug\netcoreapp3.1\EmpParttime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\obj\Debug\netcoreapp3.1\EmpParttime.AssemblyInfoInputs.cache
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\obj\Debug\netcoreapp3.1\EmpParttime.AssemblyInfo.cs
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\obj\Debug\netcoreapp3.1\EmpParttime.csproj.CoreCompileInputs.cache
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\obj\Debug\netcoreapp3.1\EmpParttime.dll
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\obj\Debug\netcoreapp3.1\EmpParttime.pdb
+E:\Fellowship-92\Employee_Wage\EmpParttime\EmpParttime\obj\Debug\netcoreapp3.1\EmpParttime.genruntimeconfig.cache
