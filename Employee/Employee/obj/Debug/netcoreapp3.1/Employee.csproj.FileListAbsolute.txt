@@ -1,0 +1,14 @@
+E:\Fellowship-92\Employee_Wage\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+E:\Fellowship-92\Employee_Wage\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+E:\Fellowship-92\Employee_Wage\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+E:\Fellowship-92\Employee_Wage\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+E:\Fellowship-92\Employee_Wage\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+E:\Fellowship-92\Employee_Wage\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+E:\Fellowship-92\Employee_Wage\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.AssemblyReference.cache
+E:\Fellowship-92\Employee_Wage\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fellowship-92\Employee_Wage\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+E:\Fellowship-92\Employee_Wage\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+E:\Fellowship-92\Employee_Wage\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+E:\Fellowship-92\Employee_Wage\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+E:\Fellowship-92\Employee_Wage\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+E:\Fellowship-92\Employee_Wage\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache
